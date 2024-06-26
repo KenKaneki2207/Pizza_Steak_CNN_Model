@@ -1,4 +1,4 @@
-# Neural_Image_Classification_model
+# Image_Classification_CNN_model
 
 **Image Classification** : Make the model understand the difference between a Pizza and steak.
 
