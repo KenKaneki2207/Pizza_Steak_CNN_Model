@@ -5,7 +5,7 @@
 **CNN Model** : Convolutional Neural Network, it is an model used for Image Classification, It has 2 main layers :
 1. CNN Layer : Convolutional Layer, it is used to extract the features from the images.
 2. Pooling Layer : It is used to reduce the parameters extract the data which are more important than the other data.
-To understand preview this webpage : https://poloclub.github.io/cnn-explainer/
+    To understand CNN more, preview this webpage : https://poloclub.github.io/cnn-explainer/
 
 **Datset** : The dataset contains 2000 images, 1000 for each object (Pizaa, Steak). Theses 1000 images are split into 750 and 250 images for training and testing respectively. 
 
