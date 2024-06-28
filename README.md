@@ -17,4 +17,5 @@
 4. Data Preprocessing
 5. Splitting the dataset
 6. Creating and evaluating our model
-7. Experimenting with hyperparameters to increase the accuracy
+7. Augmentation of images.
+8. Experimenting with hyperparameters to increase the accuracy
